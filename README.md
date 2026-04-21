@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**rheysoft/rheysoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build extensions for different software-environments for different cases.
 
-Here are some ideas to get you started:
+## What I build now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Trading Tools** - Scripts & indicators for MetaTrader 4 & 5  
+Position management, risk control, session-based strategies for traders.
+
+**Browser Extensions** - Useful utilities for Chrome, Firefox & Edge  
+Usability, productivity, privacy - no bloat, no tracking.
+
+---
+
+## Products - tbd
+
+| Product | Platform | Category |
+|---------|----------|----------|
+| tbd | MQL5 Market | Trading Tool |
+| tbd | MQL5 Market | Trading Tool |
+| tbd | Chrome / Firefox | Browser Extension |
+| tbd | Chrome / Firefox | Browser Extension |
+
+→ Full product list & documentation: **tbd**
+
+---
+
+## Tech
+
+`MQL5` · `MQL4` · `Pine Script` · `JavaScript` · `Manifest V3` · `HTML/CSS`
+
+---
+
+> All products are tested thoroughly and maintained actively.  
+> Questions or feedback? Open an issue in the relevant repository.
