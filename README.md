@@ -1,35 +1,19 @@
-# Hi 👋
+# rheysoft
 
-I build extensions for different software-environments for different cases.
+Software by **rheysoft UG (haftungsbeschränkt)**.
 
-## What I build now
+## Browser extensions
 
-**Trading Tools** - Scripts & indicators for MetaTrader 4 & 5  
-Position management, risk control, session-based strategies for traders.
+### Radio Widget
 
-**Browser Extensions** - Useful utilities for Chrome, Firefox & Edge  
-Usability, productivity, privacy - no bloat, no tracking.
+A browser extension for internet radio, in the browser's side panel or sidebar.
 
----
-
-## Products - tbd
-
-| Product | Platform | Category |
-|---------|----------|----------|
-| tbd | MQL5 Market | Trading Tool |
-| tbd | MQL5 Market | Trading Tool |
-| tbd | Chrome / Firefox | Browser Extension |
-| tbd | Chrome / Firefox | Browser Extension |
-
-→ Full product list & documentation: **tbd**
+- [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/radio-widget/)
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/radio-widget/jploifhjedcbmaoncidfomoidoldpaco)
+- [Privacy policy](https://rheysoft.com/privacy_radio-widget_en)
 
 ---
 
-## Tech
+[Imprint](https://rheysoft.com/impressum) · [General privacy policy](https://rheysoft.com/privacy) · rheysoft@gmail.com
 
-`MQL5` · `MQL4` · `Pine Script` · `JavaScript` · `Manifest V3` · `HTML/CSS`
-
----
-
-> All products are tested thoroughly and maintained actively.  
-> Questions or feedback? Open an issue in the relevant repository.
+© 2026 rheysoft UG (haftungsbeschränkt). All rights reserved.
